@@ -1,9 +1,9 @@
 ### Hi there, I'm Simon 👋
-I am an enthusiastic AI -user and aspiring -developer. I'm studying for a Master of Science in Statistics and Machine Learning. I have previously graduated with a Bachelor of Science in Mathematical Statistics in 2023. My current main interests are Convolutional and Recurrent Neural Networks.
+I am an enthusiastic AI -user and aspiring -developer. I'm studying for a Master of Science in Statistics and Machine Learning at Linköping University at the moment and I have previously graduated with a Bachelor of Science in Mathematical Statistics in 2023. My current main interests are Convolutional and Recurrent Neural Networks and their applications. I am also interested in, and have experience with teaching.
 
 ### I have previous experience working with 
 - Python (keras, pyspark)
-- R
+- R (tidyverse, package development)
 - SQL
 
 ### Things I look forward to studying and working with in the near future 📚
