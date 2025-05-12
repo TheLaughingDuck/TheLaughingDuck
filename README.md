@@ -1,8 +1,12 @@
 ### Hi there, I'm Simon 👋
-I am an enthusiastic AI -user and aspiring -developer. I'm studying for a Master of Science in Statistics and Machine Learning at Linköping University at the moment and I have previously graduated with a Bachelor of Science in Mathematical Statistics in 2023. My current main interests are Convolutional and Recurrent Neural Networks and their applications. I am also interested in, and have experience with teaching.
+🎓 I'm a Master's student of Data Analysis, Statistics and Machine Learning coming from a background of mathematical statistics and with great interest in investigating various kinds of data and machine learning models, always with a focus on investigating, understanding, and applying.
+
+🧠 Most recently, in my Master's Thesis, I have worked on brain tumour diagnosis classification based on fusion of 3D-MRI sequences using deep learning, specifically using a ViT and CNN's. It has been a very interesting project, providing me with a lot of hands-on experience with research and model training using PyTorch.
+
+👨‍🔬 I am highly motivated by the desire to learn new things and develop my analytical abilities. My main priority is to ensure great quality of my work. I consider myself a calm, analytical person, with a proficiency in simplifying and summarizing my results.
 
 ### I have experience working with 
-- Python (keras, pyspark)
+- Python (PyTorch, keras, pyspark)
 - R (tidyverse, package development)
 - SQL
 
