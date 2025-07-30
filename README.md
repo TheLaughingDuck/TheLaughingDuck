@@ -1,11 +1,11 @@
 # Hi there, I'm Simon 👋
-🎓 Master's student of Statistics and Machine Learning at Linköping University.
+    🎓 Master's student of Statistics and Machine Learning at Linköping University.
 
-🎓 Bachelor's degree in Mathematical Statistics from Stockholm University.
+    🎓 Bachelor's degree in Mathematical Statistics from Stockholm University.
 
-📖 A highly motivated, technical and analytical problem solver.
+    📖 A highly motivated, technical and analytical problem solver.
 
-📖 I love learning new concepts, simplifying them, and the pure joy it brings to teach others.
+    📖 I love learning new concepts, simplifying them, and the pure joy it brings to teach others.
 
 ## I'm currently working on
 👨‍💻 Various Machine Learning projects.
