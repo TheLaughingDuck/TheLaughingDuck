@@ -15,7 +15,7 @@
 👨‍💻 A custom voice Assistant written in python, and run on a Raspberry Pi.
 
 ## I have previously worked on
-🛠️ [My Master's Thesis](https://github.com/TheLaughingDuck/Master_Thesis), deep learning-based classification of brain tumour diagnosis, specifically with ViT and CNN. 
+🛠️ [My Master's Thesis](https://github.com/TheLaughingDuck/Master_Thesis), deep learning-based 3D MRI classification of brain tumour diagnosis, specifically with ViT and CNN. 
 
 🛠️ Various Machine Learning, and Statistical projects as part of my education.
 
