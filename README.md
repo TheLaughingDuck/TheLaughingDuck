@@ -1,11 +1,11 @@
 # Hi there, I'm Simon 👋
-    🎓 Master's student of Statistics and Machine Learning at Linköping University.
+🎓 Master's student of Statistics and Machine Learning at Linköping University.
 
-    🎓 Bachelor's degree in Mathematical Statistics from Stockholm University.
+🎓 Bachelor's degree in Mathematical Statistics from Stockholm University.
 
-    📖 A highly motivated, technical and analytical problem solver.
+📖 A highly motivated, technical and analytical problem solver.
 
-    📖 I love learning new concepts, simplifying them, and the pure joy it brings to teach others.
+📖 I love learning new concepts, simplifying them, and the pure joy it brings to teach others.
 
 ## I'm currently working on
 👨‍💻 Various Machine Learning projects.
@@ -15,7 +15,7 @@
 👨‍💻 A custom voice Assistant written in python, and run on a Raspberry Pi.
 
 ## I have previously worked on
-🛠️ [My Master's Thesis](https://github.com/TheLaughingDuck/Master_Thesis) on brain tumour diagnosis classification based on fusion of 3D-MRI sequences using deep learning, specifically using Vision Transformers and Convolutional Neural Networks. It was a very interesting project, providing me with a lot of hands-on experience with research and custom model training using PyTorch.
+🛠️ [My Master's Thesis](https://github.com/TheLaughingDuck/Master_Thesis), deep learning-based classification of brain tumour diagnosis, specifically with ViT and CNN. 
 
 🛠️ Various Machine Learning, and Statistical projects as part of my education.
 
