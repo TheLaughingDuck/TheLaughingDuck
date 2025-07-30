@@ -1,14 +1,16 @@
 ### Hi there, I'm Simon 👋
-🎓 I'm a Master's student of Data Analysis, Statistics and Machine Learning coming from a background of mathematical statistics and with great interest in investigating various kinds of data and machine learning models, always with a focus on investigating, understanding, and applying.
+🎓 I'm a Master's student of Statistics and Machine Learning coming from a background of mathematical statistics and with great interest in investigating various kinds of data and machine learning models, always with a focus on investigating, understanding, and applying.
 
-🧠 Most recently, in my Master's Thesis, I have worked on brain tumour diagnosis classification based on fusion of 3D-MRI sequences using deep learning, specifically using a ViT and CNN's. It has been a very interesting project, providing me with a lot of hands-on experience with research and model training using PyTorch.
+🧠 Most recently, in my Master's Thesis, I worked on brain tumour diagnosis classification based on fusion of 3D-MRI sequences using deep learning, specifically using Vision Transformers and Convolutional Neural Networks. It was a very interesting project, providing me with a lot of hands-on experience with research and custom model training using PyTorch.
 
-👨‍🔬 I am highly motivated by the desire to learn new things and develop my analytical abilities. My main priority is to ensure great quality of my work. I consider myself a calm, analytical person, with a proficiency in simplifying and summarizing my results.
+👨‍🔬 I am highly motivated by the desire to learn new things and develop my analytical and technical abilities. I am highly solution oriented, and I love coming up with cool use cases when learning new techniques and methods. I excel when working on a clearly defined problem, but I also enjoy less clear tasks, requiring an investigative and explorative process. I love to learn, to simplify and to summarise my findings, and the joy it brings to teach.
 
-### I have experience working with 
+### I have experience working with
 - Python (PyTorch, keras, pyspark)
+- Machine Learning
+- Statistics, statistical modeling
 - R (tidyverse, package development)
-- SQL
+- SQLite
 
 <!--
 **TheLaughingDuck/TheLaughingDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
