@@ -15,11 +15,11 @@
 👨‍💻 A custom voice Assistant written in python, and run on a Raspberry Pi.
 
 ## I have previously worked on
-🛠️ My Master's Thesis on brain tumour diagnosis classification based on fusion of 3D-MRI sequences using deep learning, specifically using Vision Transformers and Convolutional Neural Networks. It was a very interesting project, providing me with a lot of hands-on experience with research and custom model training using PyTorch.
+🛠️ [My Master's Thesis](https://github.com/TheLaughingDuck/Master_Thesis) on brain tumour diagnosis classification based on fusion of 3D-MRI sequences using deep learning, specifically using Vision Transformers and Convolutional Neural Networks. It was a very interesting project, providing me with a lot of hands-on experience with research and custom model training using PyTorch.
 
 🛠️ Various Machine Learning, and Statistical projects as part of my education.
 
-🛠️ My Bachelor's Thesis on various initialization techniques for the k-means algorithm.
+🛠️ [My Bachelor's Thesis](https://github.com/TheLaughingDuck/KANDIDAT_Simulation) on various initialization techniques for the k-means algorithm.
 
 ## I have experience working with
 - Python (PyTorch, keras, pyspark)
