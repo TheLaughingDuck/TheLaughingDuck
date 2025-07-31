@@ -21,6 +21,8 @@
 
 🛠️ [My Bachelor's Thesis](https://github.com/TheLaughingDuck/KANDIDAT_Simulation) on various initialization techniques for the k-means algorithm.
 
+🛠️ [A couple of small projects](https://github.com/TheLaughingDuck/Small_Projects) I'm quite proud of. Some handy machine learning helpers, and a program that automates task creation for Todoist, the task management application.
+
 ## I have experience working with
 - Python (PyTorch, keras, pyspark)
 - Machine Learning
