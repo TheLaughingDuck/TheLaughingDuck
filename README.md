@@ -17,6 +17,8 @@
 ## I have previously worked on
 🛠️ [My Master's Thesis](https://github.com/TheLaughingDuck/Master_Thesis), deep learning-based 3D MRI classification of brain tumour diagnosis, specifically with ViT and CNN. 
 
+🛠️ [PG Library](https://github.com/TheLaughingDuck/PG_Library), a collection of infrastructure PostgreSQL scripts for a fictional library.
+
 🛠️ Various Machine Learning, and Statistical projects as part of my education.
 
 🛠️ [My Bachelor's Thesis](https://github.com/TheLaughingDuck/KANDIDAT_Simulation) on various initialization techniques for the k-means algorithm.
@@ -27,10 +29,10 @@
 
 ## I have experience working with
 - Python (PyTorch, keras, pyspark)
+- PostgreSQL, SQLite
 - Machine Learning
 - Statistics, statistical modeling
 - R (tidyverse, package development)
-- SQLite
 
 
 <!--
