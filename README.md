@@ -19,6 +19,8 @@
 
 🛠️ [PG Library](https://github.com/TheLaughingDuck/PG_Library), a collection of infrastructure PostgreSQL scripts for a fictional library.
 
+🛠️ [A streamlined job application system](https://github.com/TheLaughingDuck/job_search), using a job API, SQLite to store job applications, and a python CLI UI.
+
 🛠️ Various Machine Learning, and Statistical projects as part of my education.
 
 🛠️ [My Bachelor's Thesis](https://github.com/TheLaughingDuck/KANDIDAT_Simulation) on various initialization techniques for the k-means algorithm.
