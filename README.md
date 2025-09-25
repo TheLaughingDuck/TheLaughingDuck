@@ -21,13 +21,13 @@
 
 🛠️ [A streamlined job application system](https://github.com/TheLaughingDuck/job_search), using a job API, SQLite to store job applications, and a python CLI UI.
 
-🛠️ Various Machine Learning, and Statistical projects as part of my education.
+🛠️ [A Work Clock](https://github.com/TheLaughingDuck/Work_clock) for keeping track of how much time you've worked and when. This started as a personal tool for my own need to track this data. Over time I've added some nice features such as saving data to a sqlite database and tracking individual work sessions. I'm very happy with the current version :)
 
 🛠️ [My Bachelor's Thesis](https://github.com/TheLaughingDuck/KANDIDAT_Simulation) on various initialization techniques for the k-means algorithm.
 
-🛠️ [A Work Clock](https://github.com/TheLaughingDuck/Work_clock) for keeping track of how much time you've worked and when. This started as a personal tool for my own need to track this data. Over time I've added some nice features such as saving data to a sqlite database and tracking individual work sessions. I'm very happy with the current version :)
-
 🛠️ [A couple of small projects](https://github.com/TheLaughingDuck/Small_Projects) I'm quite proud of. A very handy clock to keep track of daily working hours, some useful machine learning helpers, and a program that automates task creation for Todoist, the task management application.
+
+🛠️ Various Machine Learning, and Statistical projects as part of my Bachelor's and Master's programs.
 
 ## I have experience working with
 - Python (PyTorch, keras, pyspark)
