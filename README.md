@@ -1,38 +1,31 @@
 # Hi there, I'm Simon 👋
-🎓 Master's student of Statistics and Machine Learning at Linköping University.
+👨‍💻 Working as a Data Engineer at Sogeti.
+
+🎓 Master's degree in Statistics and Machine Learning from Linköping University.
 
 🎓 Bachelor's degree in Mathematical Statistics from Stockholm University.
 
-📖 A highly motivated, technical and analytical problem solver.
-
-📖 I love learning new concepts, simplifying them, and the pure joy it brings to teach others.
-
-## I'm currently working on
-👨‍💻 Various Machine Learning projects.
-
-👨‍💻 A Data Warehouse case project for a fictional library.
-
-👨‍💻 A custom voice Assistant written in python, and run on a Raspberry Pi.
+📖 Analytical problem solver, for the love of the game.
 
 ## I have previously worked on
-🛠️ [My Master's Thesis](https://github.com/TheLaughingDuck/Master_Thesis), deep learning-based 3D MRI classification of brain tumour diagnosis, specifically with ViT and CNN. 
-
-🛠️ [PG Library](https://github.com/TheLaughingDuck/PG_Library), a collection of infrastructure PostgreSQL scripts for a fictional library.
-
 🛠️ [A streamlined job application system](https://github.com/TheLaughingDuck/job_search), using a job API, SQLite to store job applications, and a python CLI UI.
 
 🛠️ [A Work Clock](https://github.com/TheLaughingDuck/Work_clock) for keeping track of how much time you've worked and when. This started as a personal tool for my own need to track this data. Over time I've added some nice features such as saving data to a sqlite database and tracking individual work sessions. I'm very happy with the current version :)
+
+🛠️ [My Master's Thesis](https://github.com/TheLaughingDuck/Master_Thesis), deep learning-based 3D MRI classification of brain tumour diagnosis, specifically with ViT and CNN. 
 
 🛠️ [My Bachelor's Thesis](https://github.com/TheLaughingDuck/KANDIDAT_Simulation) on various initialization techniques for the k-means algorithm.
 
 🛠️ [A couple of small projects](https://github.com/TheLaughingDuck/Small_Projects) I'm quite proud of. A very handy clock to keep track of daily working hours, some useful machine learning helpers, and a program that automates task creation for Todoist, the task management application.
 
-🛠️ Various Machine Learning, and Statistical projects as part of my Bachelor's and Master's programs.
+🛠️ Various Machine Learning, and Statistical projects as part of my Master's and Bachelor's programs.
 
 ## I have experience working with
+- Javascript, React, web-development
+- .NET development (C#)
 - Python (PyTorch, keras, pyspark)
-- PostgreSQL, SQLite
-- Machine Learning
+- SQL: PostgreSQL, SQLite, MySQL, T-SQL, ...
+- Modern and classical Machine Learning methods
 - Statistics, statistical modeling
 - R (tidyverse, package development)
 
