@@ -1,5 +1,7 @@
 # Hello there
-I'm a Software- and Data-Engineer based in Norrköping, Sweden. My background is in theoretical statistics and machine learning, at both the Bachelor's and Master's levels. I enjoy solving problems, collaborating with kind and smart people, and building things that will eventually need to be fixed. I have experience working with Javascript, Typescript, React, C# .NET, Python, various SQL variations, various modern and classical machine learning methods, as well as theoretical statistical methods, and R programming. And also a lot of other tools and packages and whatnot :) 
+I'm a Software- and Data-Engineer based in Norrköping, Sweden. My background is in theoretical statistics and machine learning, at both the Bachelor's and Master's levels. I enjoy solving problems, collaborating with kind and smart people, and building things that will eventually need to be fixed.
+
+I have experience working with Javascript, Typescript, React, C# .NET, Python, various SQL variations, various modern and classical machine learning methods, as well as theoretical statistical methods, and R programming. And also a lot of other tools and packages and whatnot :) 
 
 ## Some of my projects
 - [A streamlined job application system](https://github.com/TheLaughingDuck/job_search), using a job API, SQLite to store job applications, and a python CLI UI.
